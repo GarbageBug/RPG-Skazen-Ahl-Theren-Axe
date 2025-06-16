@@ -1,33 +1,19 @@
-    #Horn of Silent Alarm (common, dmg 270)
-    #Ammunition, +2 (rare, dmg 228)
-    #Dread Helm (common, dmg 254)
-    #Potion of Healing (uncommon, dmg 288)
-    #Adamantine Armor (uncommon, dmg 227)
-    #Potion of Comprehension (common, dmg 287)
-    #Spell Scroll (Charm Person (phb 249)) (common, dmg 305)
-    #Wand of Pyrotechnics (common, dmg 321)
-    #Cloak of Protection (uncommon, dmg 245)
-    #Eyes of Minute Seeing (uncommon, dmg 261)
-
-
-    Coiling Grasp Tattoo (uncommon, tce 123)
-    +1 Weapon (sickle) (uncommon, dmg 213)
-    Potion of Greater Healing (uncommon, dmg 187)
-    Potion of Greater Healing (uncommon, dmg 187)
-    Philter of Love (uncommon, dmg 184)
-    Potion of Greater Healing (uncommon, dmg 187)
-    Broom of Flying (uncommon, dmg 156)
-    +1 Weapon (net) (uncommon, dmg 213)
-    Bag of Tricks (tan) (uncommon, dmg 154)
-    Philter of Love (uncommon, dmg 184)
-
     The Astral Libram of Goti: This compendium is bound in leather. It is sealed by fate, and only the Empress of Knowledge can open it. This spellbook contains the spells Message, Poison Spray, and Ray of Frost.
+    
     The Elysian Tome of Kilmal: This heavy tome is bound in silver plates and locked. It is locked by magic, and can be opened only in a mirror. This spellbook contains the spells Cloud of Daggers, Enlarge/Reduce, Magic Mouth, Magic Weapon, Nystul's Magic Aura, and Suggestion.
+    
     The Fiendish Apocrypha of Corpre: This rare compendium is written upon vellum and bound in carved wood plates. It is written in Deep Speech. An individual who reads this tome, which requires 56 hours over a minimum of 7 days, gains the ability to read and write Infernal.
+    
     Bredne's Folio: This tome is bound in leather with bronze hinges and fittings. Several of its pages appear blank, unless viewed by the first light of dawn. This spellbook contains the spells Dancing Lights, Mending, Minor Illusion, and Ray of Frost.
-    The Copre Shards: This set of inscribed bones is contained in an engraved silver coffer. This spellbook contains the spells Darkness, Flaming Sphere, Gentle Repose, Gust of Wind, Levitate, Locate Object, Melf's Acid Arrow, See Invisibility, Spider Climb, and Web.
+    T
+    he Copre Shards: This set of inscribed bones is contained in an engraved silver coffer. This spellbook contains the spells Darkness, Flaming Sphere, Gentle Repose, Gust of Wind, Levitate, Locate Object, Melf's Acid Arrow, See Invisibility, Spider Climb, and Web.
+    
     Hybanto's Folio: This set of scrolls is contained in a simple wooden box. An individual who reads this tome, which requires 40 hours over a minimum of 5 days, gains immunity to being Frightened for the next 24 hours.
+    
     The Empyrean Tome of Alochos: This book is bound in rowan plates inlaid with gold. An individual who reads this tome, which requires 56 hours over a minimum of 7 days, gains the ability to cast the spell Mage Hand. Charisma is the spellcasting ability for this spell. After casting this spell, you can't cast it again until you complete a short or long rest.
+    
     The Codex of Brema: This eldritch tome is bound in bronze plates. Whenever it is opened, any other spells affecting the reader cease functioning. This spellbook contains the spells Blindness/Deafness, Blur, Detect Thoughts, and Locate Object.
-    The Elysian Codex of Cetosandr: This ancient libram is bound in carved wood plates. A map of the local area, with several landmarks drawn in red ink, has been added near the back of the tome. This spellbook contains the spells Color Spray, Comprehend Languages, Detect Magic, Feather Fall, Jump, Mage Armor, Silent Image, and Tasha's Hideous Laughter.
+    
+    #Thalion The Elysian Codex of Cetosandr: This ancient libram is bound in carved wood plates. A map of the local area, with several landmarks drawn in red ink, has been added near the back of the tome. This spellbook contains the spells Color Spray, Comprehend Languages, Detect Magic, Feather Fall, Jump, Mage Armor, Silent Image, and Tasha's Hideous Laughter.
+    
     The Hellish Manuscripts of Boanni: This heavy tome is bound in leather. It is locked by magic, and can be opened only in a mirror. This spellbook contains the spells Acid Splash, Chill Touch, Dancing Lights, Light, Message, Prestidigitation, and Ray of Frost.
