@@ -9,7 +9,7 @@ The Governess (the sister of the Baron) and new 'Captian/City Leader' of Drenath
 
 Trail leads to the Violet Woods/glade then leads to the Burning Caverns (maybe it is Burning Glad>Violet Caverns
 
-Jaraxe, sent some thugs to intercept the party as a test; IF the Party runs this tanget Go To git@github.com:GarbageBug/rpg-the-haunted-lake.git
+Jaraxe eye patch on left eye, sent some thugs to intercept the party as a test; IF the Party runs this tanget Go To git@github.com:GarbageBug/rpg-the-haunted-lake.git
 
 Fili=crude map
 Kili=Journal (solves the cypher)
